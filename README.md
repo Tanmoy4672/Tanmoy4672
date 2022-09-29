@@ -1,6 +1,6 @@
 ![MasterHead](https://i0.wp.com/sitn.hms.harvard.edu/wp-content/uploads/2017/08/headline_figure1-e1503935729975.png?resize=1024%2C463&ssl=1)
 <h1 align="center">Hi 👋, I'm Tanmoy Shome</h1>
-<h3 align="center"> passionate in Machine Learning and also a Blockchain Enthusiast</h3>
+<h3 align="center"> Machine Learning and Blockchain Enthusiast</h3>
 <img align= "right" alt="Coding" width ="400" width="400" src="https://th.bing.com/th/id/R.3f896fb6d720deb13151b36c9ac4332f?rik=PTeFkzMcRP8ONQ&riu=http%3a%2f%2fpa1.narvii.com%2f6920%2f15876ce2335f62f56e46bd69a062ff70271ede25r1-320-319_00.gif&ehk=JAtlRO9O46%2faVfOhRYtDjfAnQ7x9KTORXQIvcfOPBZ0%3d&risl=&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmoy6172&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoy6172" /> </p>
